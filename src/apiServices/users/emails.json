@@ -1,0 +1,16 @@
+{   
+    "createUser" : {
+        "subject": "Asunto de Prueba",
+        "message": "Mensaje de prueba"
+    },   
+    
+    "forgetPassword": {
+        "subject": "Recuperar Contraseña"       
+    },
+
+    "resetPassword": {
+        "subject": "Contarseña Cambiada Exitosamente",
+        "message": "Su Contarseña fue cambiada exitosamente, si considera que esto fue un error, no dude en contactarnos."
+    }
+
+}
